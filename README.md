@@ -33,7 +33,7 @@ Python| Scrapy| Postgres| Docker|
 * Go to the root directory (where docker-compose is located ) and Build the docker using "docker compose build"
 * Then do a "docker compose up"
 * You have your application ready. You should also have a jobs.csv file in the same root directory of all the jobs which have been scraped
-* 
+
 
 
 
